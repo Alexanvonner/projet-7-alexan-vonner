@@ -1,9 +1,8 @@
 Instruction 
 
 
-dossier front-end 
-command : "rm -rf node_modules" puis ensuite  "npm install".
+se rendre dans le dossier en ligne de commande dossier front-end puis exectuter la commande :  "npm install"
 
-pour démarrer le front-end : "npm start" ( à executer sur le dossue rront-end dossier my-app
+launch front-end : "npm start" ( à executer sur le dossier front-end dossier my-app)
 
 
